@@ -1,2 +1,8 @@
 # Project1
-game
+
+An Rpg Game made with Rpg Maker MV 
+
+Actors: 
+
+
+Story: 
