@@ -3,6 +3,7 @@
  * @author SumRndmDde
  *
  * @param Connect Editor
+ * @type boolean
  * @desc If ON, the Editor Window will be "connected" to the main window.
  * @default true
  *
