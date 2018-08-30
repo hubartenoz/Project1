@@ -1,6 +1,5 @@
 [
 null,
-
 {"id":1,"expanded":true,"name":"MainWorld","order":1,"parentId":0,"scrollX":816,"scrollY":624},
 {"id":2,"expanded":true,"name":"Nord World","order":18,"parentId":0,"scrollX":1947,"scrollY":1382},
 {"id":3,"expanded":true,"name":"Lava Land","order":19,"parentId":0,"scrollX":2019.2727272727273,"scrollY":1022.1818181818182},
@@ -22,6 +21,5 @@ null,
 {"id":19,"expanded":true,"name":"RuinDungeon","order":13,"parentId":8,"scrollX":1010,"scrollY":523},
 {"id":20,"expanded":false,"name":"INTRO","order":22,"parentId":0,"scrollX":2156,"scrollY":1220},
 {"id":21,"expanded":true,"name":"Cave entrence","order":16,"parentId":1,"scrollX":529,"scrollY":415},
-{"id":22,"expanded":false,"name":"MAP022","order":17,"parentId":21,"scrollX":529,"scrollY":305}
-
+{"id":22,"expanded":false,"name":"MAP022","order":17,"parentId":21,"scrollX":819,"scrollY":461}
 ]
