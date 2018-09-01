@@ -1,5 +1,7 @@
 [
 null,
 {"id":1,"battlerName":"Hero_batler","characterIndex":0,"characterName":"Hero valker","classId":2,"equips":[0,0,0,0,0,0],"faceIndex":0,"faceName":"Hero face","traits":[],"initialLevel":1,"maxLevel":99,"name":"Harold","nickname":"","note":"","profile":""},
-{"id":2,"battlerName":"SnowPrinces","characterIndex":0,"characterName":"SnowPrinces","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"SnowPrinces","traits":[],"initialLevel":1,"maxLevel":99,"name":"Mira","nickname":"","note":"","profile":""}
+{"id":2,"battlerName":"SnowPrinces","characterIndex":0,"characterName":"SnowPrinces","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"SnowPrinces","traits":[],"initialLevel":1,"maxLevel":99,"name":"Mira","nickname":"","note":"","profile":""},
+{"id":3,"battlerName":"Princes1","characterIndex":0,"characterName":"Princes1","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"princes1","traits":[],"initialLevel":1,"maxLevel":99,"name":"","nickname":"","note":"","profile":""},
+{"id":4,"battlerName":"warior1","characterIndex":0,"characterName":"warior1","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"warior1","traits":[],"initialLevel":1,"maxLevel":99,"name":"","nickname":"","note":"","profile":""}
 ]
