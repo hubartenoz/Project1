@@ -26,7 +26,7 @@ null,
 {"id":24,"expanded":false,"name":"MAP024","order":24,"parentId":23,"scrollX":1638,"scrollY":922},
 {"id":25,"expanded":true,"name":"Mistirius house","order":20,"parentId":18,"scrollX":1638,"scrollY":922},
 {"id":26,"expanded":false,"name":"MAP026","order":25,"parentId":25,"scrollX":1638,"scrollY":922},
-{"id":27,"expanded":false,"name":"MAP027","order":15,"parentId":19,"scrollX":0,"scrollY":0},
+{"id":27,"expanded":false,"name":"Old Storage Room","order":15,"parentId":19,"scrollX":1404,"scrollY":790.2857142857142},
 {"id":28,"expanded":false,"name":"MAP028","order":16,"parentId":19,"scrollX":0,"scrollY":0},
 {"id":29,"expanded":false,"name":"MAP029","order":17,"parentId":19,"scrollX":0,"scrollY":0},
 {"id":30,"expanded":false,"name":"MAP030","order":18,"parentId":19,"scrollX":0,"scrollY":0}
