@@ -32,5 +32,5 @@ null,
 {"id":30,"expanded":false,"name":"Kitchen","order":19,"parentId":19,"scrollX":546,"scrollY":307.3333333333333},
 {"id":31,"expanded":true,"name":"Church","order":27,"parentId":6,"scrollX":899.3333333333334,"scrollY":810.6666666666666},
 {"id":32,"expanded":false,"name":"Ruined Building","order":15,"parentId":16,"scrollX":540.6666666666666,"scrollY":316.6666666666667},
-{"id":33,"expanded":false,"name":"Church Inside","order":28,"parentId":31,"scrollX":884.7272727272727,"scrollY":502.90909090909093}
+{"id":33,"expanded":false,"name":"Church Inside","order":28,"parentId":31,"scrollX":884.7272727272727,"scrollY":649.0909090909091}
 ]
