@@ -1,0 +1,8 @@
+Note:
+To be able to use this body image,you have to replace the default body from your generator with file name:FG_Body_p01_c1_m001
+
+FIRST BACKUP THE DEFAULT FG_Body_p01_c1_m001 to be able to replace it again when you don't need human body again.Simply copy and paste it somewere else,or put it as a  zip folder and then extract when you need it.
+
+Thank you for download :)
+
+Credits:Yunary and Kadokawa
