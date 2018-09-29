@@ -42,6 +42,6 @@ null,
 {"id":40,"expanded":true,"name":"Tent","order":21,"parentId":8,"scrollX":810,"scrollY":452},
 {"id":41,"expanded":false,"name":"Under The Tent","order":22,"parentId":40,"scrollX":972,"scrollY":542.4},
 {"id":42,"expanded":true,"name":"Under He Tent 2","order":23,"parentId":40,"scrollX":972,"scrollY":542.4},
-{"id":43,"expanded":false,"name":"gap in the vall","order":24,"parentId":42,"scrollX":0,"scrollY":0},
+{"id":43,"expanded":false,"name":"gap in the vall","order":24,"parentId":42,"scrollX":972,"scrollY":542.4},
 {"id":44,"expanded":false,"name":"The Entrance","order":25,"parentId":42,"scrollX":962.4,"scrollY":542.4}
 ]
