@@ -46,6 +46,6 @@ null,
 {"id":44,"expanded":false,"name":"The Entrance","order":25,"parentId":42,"scrollX":6552,"scrollY":3688},
 {"id":45,"expanded":true,"name":"Gate","order":26,"parentId":42,"scrollX":6552,"scrollY":3688},
 {"id":46,"expanded":false,"name":"The Forgoten City Entrance","order":27,"parentId":45,"scrollX":6552,"scrollY":3688},
-{"id":47,"expanded":false,"name":"the Cyty","order":28,"parentId":45,"scrollX":6552,"scrollY":3688},
+{"id":47,"expanded":false,"name":"the Cyty","order":28,"parentId":45,"scrollX":4914,"scrollY":2766},
 {"id":48,"expanded":false,"name":"EDITING MAP","order":48,"parentId":0,"scrollX":1622,"scrollY":998}
 ]
