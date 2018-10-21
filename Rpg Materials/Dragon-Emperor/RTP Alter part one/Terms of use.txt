@@ -1,0 +1,20 @@
+Aekashics Release #9 !
+------------------------
+RTP Alter part 1
+------------------------
+
+Starting the new year with a new Scheme! 
+
+Terms of use:
+http://www.akashics.moe/terms-of-use/  
+
+More resources:
+http://www.akashics.moe/
+
+Every plugin you might ever need:
+http://yanfly.moe/
+
+-Aekashics
+
+Special Thanks:
+-Yanfly, Nina and Aldo !
