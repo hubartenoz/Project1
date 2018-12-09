@@ -1,9 +1,0 @@
-Hello,Thank you for downloading my resources!
-
-If you want to use the dragon sking resource,then you have to backup your default file named :FG_Body_p01_c1_m001 from Face Folder.
-If you replaced it by mistake,I have put the original file into Optional Dragon Skin subfolder named:Default generator file 
-Simply replace it back when you need human body.
-Enjoy!
-
-
-Credits go to Yunary

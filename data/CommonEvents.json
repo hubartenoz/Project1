@@ -1,7 +1,7 @@
 [
 null,
 {"id":1,"list":[{"code":301,"indent":0,"parameters":[0,2,true,true]},{"code":601,"indent":0,"parameters":[]},{"code":123,"indent":1,"parameters":["A",0]},{"code":0,"indent":1,"parameters":[]},{"code":602,"indent":0,"parameters":[]},{"code":123,"indent":1,"parameters":["B",0]},{"code":0,"indent":1,"parameters":[]},{"code":603,"indent":0,"parameters":[]},{"code":123,"indent":1,"parameters":["B",0]},{"code":0,"indent":1,"parameters":[]},{"code":604,"indent":0,"parameters":[]},{"code":0,"indent":0,"parameters":[]}],"name":"Slime ATACK","switchId":1,"trigger":0},
-{"id":2,"list":[{"code":0,"indent":0,"parameters":[]}],"name":"","switchId":1,"trigger":0},
+{"id":2,"list":[{"code":301,"indent":0,"parameters":[0,1,true,true]},{"code":601,"indent":0,"parameters":[]},{"code":123,"indent":1,"parameters":["A",0]},{"code":0,"indent":1,"parameters":[]},{"code":602,"indent":0,"parameters":[]},{"code":123,"indent":1,"parameters":["B",0]},{"code":0,"indent":1,"parameters":[]},{"code":603,"indent":0,"parameters":[]},{"code":123,"indent":1,"parameters":["B",0]},{"code":0,"indent":1,"parameters":[]},{"code":604,"indent":0,"parameters":[]},{"code":0,"indent":0,"parameters":[]}],"name":"Bats atack","switchId":1,"trigger":0},
 {"id":3,"list":[{"code":0,"indent":0,"parameters":[]}],"name":"","switchId":1,"trigger":0},
 {"id":4,"list":[{"code":0,"indent":0,"parameters":[]}],"name":"","switchId":1,"trigger":0},
 {"id":5,"list":[{"code":0,"indent":0,"parameters":[]}],"name":"","switchId":1,"trigger":0},
