@@ -1,0 +1,5 @@
+$gameMap.regionId($gamePlayer.x, $gamePlayer.y) === n
+
+$gamePlayer.x
+
+$gamePlayer.y
