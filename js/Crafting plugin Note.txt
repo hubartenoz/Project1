@@ -1,0 +1,23 @@
+Plugin Command:
+  CraftingSystem open 0			# Opens the crafting scene for category #0
+  CraftingSystem add_recipe 5: w3		# Adds the recipe of weapon #3 to recipe book #5
+  CraftingSystem remove_recipe 5: a1	# Removes the recipe of armor #1 from recipe book #5
+
+Defining recipes for items, weapons and armors in their notes:
+   <recipe>
+   i: 1, 5	# requires 5 of item #1
+   w: 3, 2	# requires 2 of weapon #3
+   a: 2, 5	# requires 5 of armor #2
+   c: 1000	# requires 1000 of currency
+   </recipe>
+
+Defining recipe books (only key items) in their notes:
+   <recipe_book>
+   category: x	# recipe book is of category #x
+   i: 1, 3, 4	# recipe book contains the recipes of items #1, #3 and #4
+   w: 3 		# recipe book contains the recipes of weapon #3
+   a: 2, 1 		# recipe book contains the recipes of armors #1 and #2
+   </recipe_book>
+
+
+To switch between ingredients display and status display, use the Q and W keys.
