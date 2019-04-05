@@ -120,12 +120,13 @@
       <data key="d5"/>
       <data key="d6">
         <y:GenericNode configuration="com.yworks.entityRelationship.big_entity">
-          <y:Geometry height="173.83999999999997" width="147.09100799999987" x="-44.64642175999279" y="-529.8062927874973"/>
+          <y:Geometry height="197.9809472125027" width="197.09100799999987" x="-44.64642175999279" y="-541.8767663937488"/>
           <y:Fill color="#99CCFF" color2="#B7C9E3" transparent="false"/>
           <y:BorderStyle color="#000000" type="line" width="1.0"/>
-          <y:NodeLabel alignment="center" autoSizePolicy="content" backgroundColor="#99CCFF" configuration="com.yworks.entityRelationship.label.name" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasLineColor="false" height="18.701171875" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="t" textColor="#000000" verticalTextPosition="bottom" visible="true" width="78.033203125" x="34.52890243749994" xml:space="preserve" y="4.0">Quest Church</y:NodeLabel>
-          <y:NodeLabel alignment="left" autoSizePolicy="content" configuration="com.yworks.entityRelationship.label.attributes" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="136.310546875" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="top" visible="true" width="111.3671875" x="2.0" xml:space="preserve" y="30.701171875">Objectivs:
-- Get The quest
+          <y:NodeLabel alignment="center" autoSizePolicy="content" backgroundColor="#99CCFF" configuration="com.yworks.entityRelationship.label.name" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasLineColor="false" height="18.701171875" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="t" textColor="#000000" verticalTextPosition="bottom" visible="true" width="78.033203125" x="59.52890243749994" xml:space="preserve" y="4.0">Quest Church</y:NodeLabel>
+          <y:NodeLabel alignment="left" autoSizePolicy="content" configuration="com.yworks.entityRelationship.label.attributes" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="151.01171875" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="top" visible="true" width="165.384765625" x="2.0" xml:space="preserve" y="30.701171875">Get The Quest by:
+  - Talking yor dad at first time 
+
 - Talk with the priest
 - Go back
 
@@ -143,14 +144,15 @@ Reward:
       <data key="d5"/>
       <data key="d6">
         <y:GenericNode configuration="com.yworks.entityRelationship.big_entity">
-          <y:Geometry height="161.03999999999996" width="147.09100799999987" x="176.15357824000716" y="-402.22137350000037"/>
+          <y:Geometry height="166.03999999999996" width="209.49100799999985" x="218.15357824000716" y="-407.22137350000037"/>
           <y:Fill color="#99CCFF" color2="#B7C9E3" transparent="false"/>
           <y:BorderStyle color="#000000" type="line" width="1.0"/>
-          <y:NodeLabel alignment="center" autoSizePolicy="content" backgroundColor="#99CCFF" configuration="com.yworks.entityRelationship.label.name" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasLineColor="false" height="18.701171875" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="t" textColor="#000000" verticalTextPosition="bottom" visible="true" width="96.701171875" x="25.194918062499937" xml:space="preserve" y="4.0">Quest Find Sister</y:NodeLabel>
-          <y:NodeLabel alignment="left" autoSizePolicy="content" configuration="com.yworks.entityRelationship.label.attributes" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="106.908203125" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="top" visible="true" width="102.701171875" x="2.0" xml:space="preserve" y="30.701171875">Objectivs:
- - Get The quest
- - Go to the forest
- - Find Yor sister
+          <y:NodeLabel alignment="center" autoSizePolicy="content" backgroundColor="#99CCFF" configuration="com.yworks.entityRelationship.label.name" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasLineColor="false" height="18.701171875" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="t" textColor="#000000" verticalTextPosition="bottom" visible="true" width="96.701171875" x="56.394918062499926" xml:space="preserve" y="4.0">Quest Find Sister</y:NodeLabel>
+          <y:NodeLabel alignment="left" autoSizePolicy="content" configuration="com.yworks.entityRelationship.label.attributes" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="121.609375" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="top" visible="true" width="164.59375" x="2.0" xml:space="preserve" y="30.701171875">Get The Quest by:
+  Finishing The "Quest Chuch"
+
+Objectivs:
+ - Find Yor sister in the forest
 
 Reward:
  - Companion Mira<y:LabelModel><y:ErdAttributesNodeLabelModel/></y:LabelModel><y:ModelParameter><y:ErdAttributesNodeLabelModelParameter/></y:ModelParameter></y:NodeLabel>
@@ -164,14 +166,14 @@ Reward:
       <data key="d5"/>
       <data key="d6">
         <y:GenericNode configuration="com.yworks.entityRelationship.big_entity">
-          <y:Geometry height="173.83999999999997" width="209.49100799999985" x="-75.84642175999278" y="-287.0326587500006"/>
+          <y:Geometry height="173.83999999999997" width="209.49100799999985" x="-50.84642175999278" y="-287.0326587500006"/>
           <y:Fill color="#99CCFF" color2="#B7C9E3" transparent="false"/>
           <y:BorderStyle color="#000000" type="line" width="1.0"/>
           <y:NodeLabel alignment="center" autoSizePolicy="content" backgroundColor="#99CCFF" configuration="com.yworks.entityRelationship.label.name" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasLineColor="false" height="18.701171875" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="t" textColor="#000000" verticalTextPosition="bottom" visible="true" width="106.720703125" x="51.385152437499926" xml:space="preserve" y="4.0">Quest Ruin explore</y:NodeLabel>
-          <y:NodeLabel alignment="left" autoSizePolicy="content" configuration="com.yworks.entityRelationship.label.attributes" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="136.310546875" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="top" visible="true" width="200.798828125" x="2.0" xml:space="preserve" y="30.701171875">Objectivs:
- - Get The quest
- - Go deep in the forest
- - Find Rhe ancient ruins
+          <y:NodeLabel alignment="left" autoSizePolicy="content" configuration="com.yworks.entityRelationship.label.attributes" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="136.310546875" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="top" visible="true" width="200.798828125" x="2.0" xml:space="preserve" y="30.701171875">Get The Quest by:
+ - Finding a ruin in the forest.
+
+Objectivs:
  - Solve the Puzels and go to the end
  - Relase The Dragon
 
@@ -187,16 +189,17 @@ Reward:
       <data key="d5"/>
       <data key="d6">
         <y:GenericNode configuration="com.yworks.entityRelationship.big_entity">
-          <y:Geometry height="189.03999999999996" width="181.8558079999999" x="158.77117824000715" y="-163.73939600000102"/>
+          <y:Geometry height="203.11999999999995" width="214.4958079999999" x="215.65117824000714" y="-170.77939600000104"/>
           <y:Fill color="#99CCFF" color2="#B7C9E3" transparent="false"/>
           <y:BorderStyle color="#000000" type="line" width="1.0"/>
-          <y:NodeLabel alignment="center" autoSizePolicy="content" backgroundColor="#99CCFF" configuration="com.yworks.entityRelationship.label.name" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasLineColor="false" height="18.701171875" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="t" textColor="#000000" verticalTextPosition="bottom" visible="true" width="145.416015625" x="18.219896187499955" xml:space="preserve" y="4.0">Quest What we have done</y:NodeLabel>
-          <y:NodeLabel alignment="left" autoSizePolicy="content" configuration="com.yworks.entityRelationship.label.attributes" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="151.01171875" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="top" visible="true" width="128.728515625" x="2.0" xml:space="preserve" y="30.701171875">Objectivs:
- - Go Bac To the Vilage
- - Tal to dad
+          <y:NodeLabel alignment="center" autoSizePolicy="content" backgroundColor="#99CCFF" configuration="com.yworks.entityRelationship.label.name" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasLineColor="false" height="18.701171875" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="t" textColor="#000000" verticalTextPosition="bottom" visible="true" width="145.416015625" x="34.53989618749995" xml:space="preserve" y="4.0">Quest What we have done</y:NodeLabel>
+          <y:NodeLabel alignment="left" autoSizePolicy="content" configuration="com.yworks.entityRelationship.label.attributes" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="165.712890625" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="top" visible="true" width="128.72265625" x="2.0" xml:space="preserve" y="30.701171875">Get The Quest by:
+ - Realesing he dragon
+
+Objectivs:
+ - Talk to dad
  - Find The adventurers
- - Listen their story
- - Jon to them
+ - acept their reqest
 
 Reward:
  - Companion Amelia
@@ -211,11 +214,14 @@ Reward:
       <data key="d5"/>
       <data key="d6">
         <y:GenericNode configuration="com.yworks.entityRelationship.big_entity">
-          <y:Geometry height="150.64" width="181.8558079999999" x="-62.02882175999281" y="3.0051519999987875"/>
+          <y:Geometry height="185.83999999999992" width="218.65580799999998" x="-55.42882175999284" y="-14.594848000001178"/>
           <y:Fill color="#99CCFF" color2="#B7C9E3" transparent="false"/>
           <y:BorderStyle color="#000000" type="line" width="1.0"/>
-          <y:NodeLabel alignment="center" autoSizePolicy="content" backgroundColor="#99CCFF" configuration="com.yworks.entityRelationship.label.name" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasLineColor="false" height="18.701171875" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="t" textColor="#000000" verticalTextPosition="bottom" visible="true" width="181.421875" x="0.21696649999995543" xml:space="preserve" y="4.0">Quest Serch the island (Optional)</y:NodeLabel>
-          <y:NodeLabel alignment="left" autoSizePolicy="content" configuration="com.yworks.entityRelationship.label.attributes" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="106.908203125" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="top" visible="true" width="165.42578125" x="2.0" xml:space="preserve" y="30.701171875">Objectivs:
+          <y:NodeLabel alignment="center" autoSizePolicy="content" backgroundColor="#99CCFF" configuration="com.yworks.entityRelationship.label.name" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasLineColor="false" height="18.701171875" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="t" textColor="#000000" verticalTextPosition="bottom" visible="true" width="181.421875" x="18.61696649999999" xml:space="preserve" y="4.0">Quest Serch the island (Optional)</y:NodeLabel>
+          <y:NodeLabel alignment="left" autoSizePolicy="content" configuration="com.yworks.entityRelationship.label.attributes" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="151.01171875" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="top" visible="true" width="197.423828125" x="2.0" xml:space="preserve" y="30.701171875">Get The Quest by:
+ - Leaving the vilage at The first time
+
+Objectivs:
  - Go to the another Vilage
  - Go to the suspicious bulding
  - Go to the Beach
